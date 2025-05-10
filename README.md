@@ -7,6 +7,8 @@ This repository contains a modular RNA-Seq analysis workflow designed for differ
 
 This pipeline handles everything from raw read quality control to differential expression analysis and visualization between stains and across timepionts.
 
+The analysis pipleline is based on the youtube tutorial by Danny Arends which can be found here: https://www.youtube.com/watch?v=PlqDQBl22DI&ab_channel=DannyArends
+
 ## Features
 
 (DEFAULTs - update these when appropriate)
